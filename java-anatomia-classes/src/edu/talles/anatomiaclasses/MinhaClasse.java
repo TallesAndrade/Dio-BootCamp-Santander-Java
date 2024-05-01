@@ -1,3 +1,4 @@
+package edu.talles.anatomiaclasses;
 
 public class MinhaClasse {
 

@@ -1,3 +1,5 @@
+package edu.talles.anatomiaclasses;
+
 public class BoletimEstudantil {
 
     public static void main(String[] args) {
