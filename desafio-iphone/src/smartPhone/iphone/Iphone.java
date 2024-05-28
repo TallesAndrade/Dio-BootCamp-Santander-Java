@@ -1,7 +1,7 @@
 package smartPhone.iphone;
 
 
-import smartPhone.sistemaOperacional.funcionalidades.IOS;
+import smartPhone.sistemaOperacional.IOS;
 
 public class Iphone {
     public static void main(String[] args) {

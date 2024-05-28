@@ -1,4 +1,4 @@
-package smartPhone.sistemaOperacional.funcionalidades;
+package smartPhone.sistemaOperacional;
 
 import smartPhone.sistemaOperacional.funcionalidades.musical.ReprodutorMusical;
 import smartPhone.sistemaOperacional.funcionalidades.navegador.NavegadorInternet;
